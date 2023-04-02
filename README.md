@@ -6,7 +6,7 @@ F.E- React
 
 Clone it-
 
-Setup F.E section > goto the client folder > run 'yarn' > and after that 'yarn run'
+Setup F.E section > goto the client folder > run 'yarn' > and after that 'yarn start'
 Setup B.E section > goto the backend folder > index.js > under the //db connection change the deatils according to your MySql config. > Goto your MySql workbench and create a new schema name according to index.js file setup
 and create a table called books and as per the index.js // create book section table row(use those columns), (after the setup you can put some dummy data also) > now to the 
 client folder I use http req port no, change those according to your's. > then run the server - 'yarn start'.  
