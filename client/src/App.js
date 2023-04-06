@@ -2,7 +2,6 @@ import {
   BrowserRouter,
   Routes,
   Route,
-  Link,
 } from "react-router-dom";
 import Add from "./pages/Add";
 import Books from "./pages/Books";
